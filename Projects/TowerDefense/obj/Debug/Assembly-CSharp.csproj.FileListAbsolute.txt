@@ -1,0 +1,338 @@
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\mscorlib.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\System.Core.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\System.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\System.Xml.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityScript.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEditor.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\l017081h\Documents\TestProject\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\l017081h\Documents\TestProject\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\l017081h\Documents\TestProject\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\l017081h\Documents\TestProject\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\l017081h\Documents\TestProject\obj\Debug\Assembly-CSharp.dll
+C:\Users\l017081h\Documents\TestProject\obj\Debug\Assembly-CSharp.pdb
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Assembly-CSharp.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Boo.Lang.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Facebook.Unity.Settings.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\mscorlib.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\System.Core.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\System.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\System.Xml.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\System.Xml.Linq.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.Locator.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.TextMeshPro.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEditor.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UI.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityScript.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityScript.Lang.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.Cecil.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.DataContract.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\ExCSS.Unity.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.IvyParser.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\Unity.CecilTools.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEditor.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.UI.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\YR2\Games Development (L3)\Projects\TowerDefense\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\YR2\Games Development (L3)\Projects\TowerDefense\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+F:\YR2\Games Development (L3)\Projects\TowerDefense\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+F:\YR2\Games Development (L3)\Projects\TowerDefense\obj\Debug\Assembly-CSharp.dll
+F:\YR2\Games Development (L3)\Projects\TowerDefense\obj\Debug\Assembly-CSharp.pdb
