@@ -5,14 +5,14 @@ using System.Linq;
 using System.Text;
 
 [CreateAssetMenu(fileName = "Level Set", menuName = "Tower Defense/Level Set")]
-public class LevelGet : ScriptableObject
+public class LevelSet : ScriptableObject
 {
     [SerializeField]
     LevelTemplate[] m_Levels;
 
     public int LevelCount { get { return m_Levels.Length; } }
 
-    public LevelTemplate LeveL(int index)
+    public LevelTemplate Level(int index)
     {
         if (m_Levels != null && m_Levels.Length != 0)
         {

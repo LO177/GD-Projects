@@ -61,25 +61,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Gameboard.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\GameMode_StandardLevel.cs" />
-    <Compile Include="Assets\Scripts\IGameMode.cs" />
+    <Compile Include="Assets\Scripts\GameScripts\Gameboard.cs" />
+    <Compile Include="Assets\Scripts\GameScripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\GameScripts\GameMode_StandardLevel.cs" />
+    <Compile Include="Assets\Scripts\GameScripts\IGameMode.cs" />
     <Compile Include="Assets\Scripts\LevelSet.cs" />
-    <Compile Include="Assets\Scripts\LeveLTemplate.cs" />
+    <Compile Include="Assets\Scripts\LevelTemplate.cs" />
+    <Compile Include="Assets\Scripts\lSelectable.cs" />
     <Compile Include="Assets\Scripts\MonoSingleton.cs" />
     <Compile Include="Assets\Scripts\TestScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>F:/YR2/Games Development (L3)/Projects/TowerDefense/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/l017081h/Documents/GitHub/GD-Projects/Projects/TowerDefense/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>F:/YR2/Games Development (L3)/Projects/TowerDefense/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/l017081h/Documents/GitHub/GD-Projects/Projects/TowerDefense/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>F:/YR2/Games Development (L3)/Projects/TowerDefense/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/l017081h/Documents/GitHub/GD-Projects/Projects/TowerDefense/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>F:/YR2/Games Development (L3)/Projects/TowerDefense/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/l017081h/Documents/GitHub/GD-Projects/Projects/TowerDefense/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -262,7 +263,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>F:/YR2/Games Development (L3)/Projects/TowerDefense/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>C:/Users/l017081h/Documents/GitHub/GD-Projects/Projects/TowerDefense/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
