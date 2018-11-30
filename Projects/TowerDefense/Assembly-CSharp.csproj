@@ -69,6 +69,8 @@
     <Compile Include="Assets\Scripts\LevelTemplate.cs" />
     <Compile Include="Assets\Scripts\lSelectable.cs" />
     <Compile Include="Assets\Scripts\MonoSingleton.cs" />
+    <Compile Include="Assets\Scripts\Objects\BaseTile.cs" />
+    <Compile Include="Assets\Scripts\Objects\PlayerController.cs" />
     <Compile Include="Assets\Scripts\TestScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/l017081h/Documents/GitHub/GD-Projects/Projects/TowerDefense/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

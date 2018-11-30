@@ -85,6 +85,8 @@ public class GameMode_StandardLevel : MonoBehaviour, IGameMode
         //initialise the Gameboard
         Gameboard.Instance.Init(m_Level);
 
+        PlayerController.Instance.Init(m_Level);
+
         return E_GameState.WAITING_TO_START;
     }
 
@@ -103,6 +105,8 @@ public class GameMode_StandardLevel : MonoBehaviour, IGameMode
     /// <returns>LevelFinished state</returns>
     E_GameState Playing()
     {
+        PlayerController.Instance.Iterate();
+
         m_GameTime += Time.deltaTime;
 
         if (m_GameOver)

@@ -2,37 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class lSelectable : MonoBehaviour {
+public interface ISelectable {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    void Select();
 
-    void Select()
-    {
+    void Deselect();
 
-    }
+    bool Selected();
 
-    void Deselect()
-    {
-
-    }
-
-    bool Selected()
-    {
-        return true;
-    }
-
-    /*Transform GetTransform()
-    {
-        Transform transformed;
-
-        return transformed;
-    }*/
+    Transform GetTransform();
 }
