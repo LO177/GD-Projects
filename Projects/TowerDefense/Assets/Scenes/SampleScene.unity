@@ -231,7 +231,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 512
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -444,7 +444,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4860153371103030, guid: 4d770994fc7a9b04e9d45dd78b936721, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -0.49341244
+      value: 2.1
       objectReference: {fileID: 0}
     - target: {fileID: 4860153371103030, guid: 4d770994fc7a9b04e9d45dd78b936721, type: 2}
       propertyPath: m_LocalPosition.y
