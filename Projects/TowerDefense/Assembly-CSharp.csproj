@@ -70,6 +70,8 @@
     <Compile Include="Assets\Scripts\lSelectable.cs" />
     <Compile Include="Assets\Scripts\MonoSingleton.cs" />
     <Compile Include="Assets\Scripts\Objects\BaseTile.cs" />
+    <Compile Include="Assets\Scripts\Objects\BoardPiece.cs" />
+    <Compile Include="Assets\Scripts\Objects\BoardPieceTemplate.cs" />
     <Compile Include="Assets\Scripts\Objects\PlayerController.cs" />
     <Compile Include="Assets\Scripts\TestScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
