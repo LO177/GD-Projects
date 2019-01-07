@@ -25,12 +25,14 @@ public class BaseTile : MonoBehaviour, ISelectable
     
     public void Select()
     {
+        UIManager.Instance.ShowBuildMenu(this);
         m_Sprite.color = m_SelectedColour;
         m_Selected = true;
     }
     
     public void Deselect()
     {
+        UIManager.Instance.HideBuildMenu();
         m_Sprite.color = m_DeselectedColour;
         m_Selected = false;
     }

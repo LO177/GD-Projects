@@ -11,12 +11,16 @@ public class PlayerController : MonoSingleton<PlayerController> {
 
     int m_SelectableLayerMask;
 
+    public int m_Health;
+
     // Use this for initialization
     public void Init(LevelTemplate template)
     {
         m_level = template;
 
         m_SelectableLayerMask = LayerMask.GetMask("Selectable");
+
+        HealthUpdate();
     }
     
 	// Update is called once per frame
@@ -50,5 +54,10 @@ public class PlayerController : MonoSingleton<PlayerController> {
                 }
             }
         }
-	}
+    }
+
+    void HealthUpdate()
+    {
+        m_Health = m_level.m_Health;
+    }
 }

@@ -41,6 +41,7 @@ public class GameMode_StandardLevel : MonoBehaviour, IGameMode
     /// Level template of the current level
     /// </summary>
     public LevelTemplate m_Level { get; private set; }
+    
 
     /// <summary>
     /// Processes the game in its current state
@@ -81,6 +82,8 @@ public class GameMode_StandardLevel : MonoBehaviour, IGameMode
         m_GameStarted = false;
 
         m_Level = GameManager.Instance.LevelSet.Level(GameManager.Instance.m_LevelIndex);
+
+        UIManager.Instance.Init(m_Level);
 
         //initialise the Gameboard
         Gameboard.Instance.Init(m_Level);
